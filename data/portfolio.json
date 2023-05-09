@@ -55,7 +55,7 @@
             "title": "Sorting-Visualizer",
             "description": "Built React / Redux application for visualizing sorting algorithms Implemented Merge Sort, Quick Sort, Heap Sort, and Bubble Sort",
             "imageSrc": "https://images.unsplash.com/photo-1657295791913-5074c912398e?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=996&q=80\",",
-            "url": "https://thegr8binil.github.io/Sorting_Visualizer/"
+            "url": "https://thegr8binil.github.io/Algo-Visualizer/"
         },
         {
             "id": "2",
