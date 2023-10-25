@@ -104,7 +104,7 @@ const Edit = () => {
         {
           id: uuidv4(),
           title: "New Link",
-          link: "www.chetanverma.com",
+          link: "www.thegr8binil.me",
         },
       ],
     });
